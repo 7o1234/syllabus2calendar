@@ -1,0 +1,1 @@
+#takes in a syllabus and outputs calendar objects for google calendar for assignments or exams
